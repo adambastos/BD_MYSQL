@@ -4,3 +4,8 @@
 /*CLIENTE (1, >1<) > TELEFONE (0, >n<) = Um cliente pode ter N telefones, mas não é obrigatório ter telefone, pois o (>0<, n) em TELEFONE indica a não obrigação.
 /*A primeira coluna indica OBRIGATORIEDADE, a segunda indica CARDINALIDADE
 
+DML - Data Manipulation LANGUAGE
+DDL - Data Definition LANGUAGE
+DCL - DATA CONTROL LANGUAGE
+TCL - TRANSACTION CONTROL LANGUAGE
+
